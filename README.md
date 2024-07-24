@@ -1,5 +1,8 @@
 <html lang="ja">
 <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SDGs Matching</title>
@@ -12,10 +15,31 @@
         }
 
         header {
-            background-color: #4cafaf;
+            background-image: url('CommunityManagers/Images/header.jpg');
+            background-size: cover;
             color: white;
             text-align: center;
-            padding: 1em 0;
+            padding: 3em 0;
+            position: relative;
+        }
+
+        header::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            z-index: 1;
+        }
+
+        header h1 {
+            position: relative;
+            z-index: 2;
+            font-size: 3em;
+            font-optical-sizing: auto;
+            
         }
 
         main {
@@ -37,6 +61,8 @@
             height: 100px;
             cursor: pointer;
         }
+
+
 
         #companies {
             margin-top: 1em;
