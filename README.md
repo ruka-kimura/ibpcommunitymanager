@@ -60,23 +60,23 @@
         <section id="sdgs-goals">
             <h2>SDGsの目標</h2>
             <div class="goal-buttons">
-                <img src="/CommunityManagers/Images/image1.png" alt="目標1: 貧困をなくそう" onclick="showCompanies(1)">
-                <img src="/CommunityManagers/Images/image2.png" alt="目標2: 飢餓をゼロに" onclick="showCompanies(2)">
-                <img src="/CommunityManagers/Images/image3.jpg" alt="目標3: すべての人に健康と福祉を" onclick="showCompanies(3)">
-                <img src="/CommunityManagers/Images/image4.png" alt="目標4: 質の高い教育をみんなに" onclick="showCompanies(4)">
-                <img src="/CommunityManagers/Images/image5.png" alt="目標5: ジェンダー平等を実現しよう" onclick="showCompanies(5)">
-                <img src="/CommunityManagers/Images/image6.png" alt="目標6: 安全な水とトイレを世界中に" onclick="showCompanies(6)">
-                <img src="/CommunityManagers/Images/image7.png" alt="目標7: エネルギーをみんなにそしてクリーンに" onclick="showCompanies(7)">
-                <img src="/CommunityManagers/Images/image8.png" alt="目標8: 働きがいも経済成長も" onclick="showCompanies(8)">
-                <img src="/CommunityManagers/Images/image9.png" alt="目標9: 産業と技術革新の基盤をつくろう" onclick="showCompanies(9)">
-                <img src="/CommunityManagers/Images/image10.jpg" alt="目標10: 人や国の不平等をなくそう" onclick="showCompanies(10)">
-                <img src="/CommunityManagers/Images/image11.jpg" alt="目標11: 住み続けられるまちづくりを" onclick="showCompanies(11)">
-                <img src="/CommunityManagers/Images/image12.png" alt="目標12: つくる責任つかう責任" onclick="showCompanies(12)">
-                <img src="/CommunityManagers/Images/image13.jpg" alt="目標13: 気候変動に具体的な対策を" onclick="showCompanies(13)">
-                <img src="/CommunityManagers/Images/image14.jpg" alt="目標14: 海の豊かさを守ろう" onclick="showCompanies(14)">
-                <img src="/CommunityManagers/Images/image15.jpg" alt="目標15: 陸の豊かさも守ろう" onclick="showCompanies(15)">
-                <img src="/CommunityManagers/Images/image16.png" alt="目標16: 平和と公正をすべての人に" onclick="showCompanies(16)">
-                <img src="/CommunityManagers/Images/image17.png" alt="目標17: パートナーシップで目標を達成しよう" onclick="showCompanies(17)">
+                <img src="CommunityManagers/Images/image1.png" alt="目標1: 貧困をなくそう" onclick="showCompanies(1)">
+                <img src="CommunityManagers/Images/image2.png" alt="目標2: 飢餓をゼロに" onclick="showCompanies(2)">
+                <img src="CommunityManagers/Images/image3.jpg" alt="目標3: すべての人に健康と福祉を" onclick="showCompanies(3)">
+                <img src="CommunityManagers/Images/image4.png" alt="目標4: 質の高い教育をみんなに" onclick="showCompanies(4)">
+                <img src="CommunityManagers/Images/image5.png" alt="目標5: ジェンダー平等を実現しよう" onclick="showCompanies(5)">
+                <img src="CommunityManagers/Images/image6.png" alt="目標6: 安全な水とトイレを世界中に" onclick="showCompanies(6)">
+                <img src="CommunityManagers/Images/image7.png" alt="目標7: エネルギーをみんなにそしてクリーンに" onclick="showCompanies(7)">
+                <img src="CommunityManagers/Images/image8.png" alt="目標8: 働きがいも経済成長も" onclick="showCompanies(8)">
+                <img src="CommunityManagers/Images/image9.png" alt="目標9: 産業と技術革新の基盤をつくろう" onclick="showCompanies(9)">
+                <img src="CommunityManagers/Images/image10.jpg" alt="目標10: 人や国の不平等をなくそう" onclick="showCompanies(10)">
+                <img src="CommunityManagers/Images/image11.jpg" alt="目標11: 住み続けられるまちづくりを" onclick="showCompanies(11)">
+                <img src="CommunityManagers/Images/image12.png" alt="目標12: つくる責任つかう責任" onclick="showCompanies(12)">
+                <img src="CommunityManagers/Images/image13.jpg" alt="目標13: 気候変動に具体的な対策を" onclick="showCompanies(13)">
+                <img src="CommunityManagers/Images/image14.jpg" alt="目標14: 海の豊かさを守ろう" onclick="showCompanies(14)">
+                <img src="CommunityManagers/Images/image15.jpg" alt="目標15: 陸の豊かさも守ろう" onclick="showCompanies(15)">
+                <img src="CommunityManagers/Images/image16.png" alt="目標16: 平和と公正をすべての人に" onclick="showCompanies(16)">
+                <img src="CommunityManagers/Images/image17.png" alt="目標17: パートナーシップで目標を達成しよう" onclick="showCompanies(17)">
             </div>
         </section>
 
